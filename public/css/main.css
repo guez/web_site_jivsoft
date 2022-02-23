@@ -1,0 +1,76 @@
+body{
+    margin: 0%;
+}
+header{
+    padding: 0;
+    width: 100%;
+    background: #E8E8E8;
+    margin: auto;
+}
+.logo{
+    height: 130px; 
+    width: 250px; 
+    margin: auto; 
+    display: block;
+}
+.menu{
+    list-style: none;
+    padding: 0;
+    width: 100%;
+    background: #2d2f2f;
+    margin: auto;
+    text-align: center;
+}
+.menu li a{
+    text-decoration: underline;
+    color: white;
+    padding: 20px;
+    display: block;
+    
+
+}
+.menu li{
+    display: inline-block;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
+.banner{
+    height: 100%; 
+    width: 100%; 
+    margin: auto; 
+    display: block;
+}
+.jump{
+    height: 100%; 
+    width: 100%; 
+    margin: auto; 
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.galeria{
+    margin: 10px 20px;
+    float: left;
+    width: 380px;
+    margin-bottom: 50px;
+}
+.imagen{
+    width: 100%;
+    height: auto;
+    filter: brightness(70%); 
+}
+.ex{
+    width: 50%;
+    height: auto;
+    margin: auto;
+    display: block;
+    filter: brightness(70%); 
+}
+.jivsoft{
+    width: 100%;
+    height: 100%;
+}
+p{
+    text-align: justify;
+}
