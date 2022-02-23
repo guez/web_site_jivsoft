@@ -23,13 +23,13 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-2.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Estudio Radiológico Dental</h4>
                 <h4>RAYODENT</h4>
                 <p>Diseño y Desarrollo Web</p>
                 <div class="portfolio-links">
-                <!--  <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="RAYODENT"><i class="bi bi-plus"></i></a> -->
+                <!--  <a href="assets/img/portfolio/portfolio-2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="RAYODENT"><i class="bi bi-plus"></i></a> -->
                   <!--<a href="#">http://rayodent.com/</a>-->
                 <!--  <a href="portfolio-details.html" title="Link"><i class="bi bi-link"></i></a> -->
                   <a href="http://rayodent.com/" target="_blank" title="Link"><i class="bi bi-link"></i></a>
