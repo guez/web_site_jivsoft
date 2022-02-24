@@ -21,7 +21,7 @@
           <div class="col-lg-3 d-flex" data-aos="fade-up" data-aos-delay="100">
             <div class="info-box">
               <i class="bx bx-envelope"></i>
-              <h3>Nuestro Email</h3>
+              <h3>Email</h3>
               <p>jivsoft@hotmail.com</p>
             </div>
           </div>
@@ -29,7 +29,7 @@
           <div class="col-lg-3 d-flex" data-aos="fade-up" data-aos-delay="200">
             <div class="info-box ">
               <i class="bx bx-phone-call"></i>
-              <h3>LLamanos</h3>
+              <h3>Teléfonos</h3>
               <p>+593 97 876 6762⁣<br>+593 96 125 5112</p>
             </div>
           </div>
@@ -38,10 +38,10 @@
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-lg-6 form-group">
-                  <input type="text" class="form-control" name="Nombre" id="Nombre" placeholder="Tu Nombre" required>
+                  <input type="text" class="form-control" name="Nombre" id="Nombre" placeholder="Nombre" required>
                 </div>
                 <div class="col-lg-6 form-group">
-                  <input type="email" class="form-control" name="Correo electrónico" id="Correo electrónico" placeholder="Tu Correo" required>
+                  <input type="email" class="form-control" name="Correo electrónico" id="Correo electrónico" placeholder="Correo electrónico" required>
                 </div>
               </div>
               <div class="form-group">
