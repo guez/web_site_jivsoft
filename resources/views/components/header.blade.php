@@ -15,10 +15,10 @@
           <li><a class="nav-link scrollto" href="/portafolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="/services">Servicios</a></li>
           <li><a class="nav-link scrollto" href="#team">Equipo</a></li>
-          <li class="dropdown"><a href="#about"><span>Nosotros</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a href="#"><span>Nosotros</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Visión</a></li>
-              <li><a href="#">Misión</a></li>
+              <li><a href="about">Visión</a></li>
+              <li><a href="about">Misión</a></li>
               <li><a href="#">Objetivos</a></li>
             </ul>
           </li>
