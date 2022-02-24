@@ -13,20 +13,13 @@
           <div class="col-lg-6 d-flex flex-column justify-content-center about-content">
 
             <div class="section-title">
-              <h2>Nosotros</h2>
-              <p>Somos una empresa dedicada al desarrollo de software con más de 5 años en el mercado tecnológico, brindando soluciones web
-                creativas a empresas y personas interesadas en tener una presencia activa en internet.</p>
-                <br>
-                <p>Nuestro objetivo es proporcionar soluciones
-                  informáticas y de gestión adecuadas a cada
-                  cliente, usando tecnologías y metodologías
-                  avanzadas.</p>
+              <h2>Nosotros</h2>             
             </div>
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bx bx-building"></i></div>
               <h4 class="title"><a href="">MISIÓN</a></h4>
-              <p class="description">JIVSOFT es una empresa orientada a las
+              <p class="description">JIVSoft es una empresa orientada a las
                 soluciones informáticas comprometida con
                 el desarrollo de software de alta calidad, para
                 satisfacer las necesidades de pequeñas y
