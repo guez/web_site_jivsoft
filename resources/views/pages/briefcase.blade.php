@@ -28,6 +28,7 @@
                 <h4>RAYODENT</h4>
                 <p>Diseño y Desarrollo Web</p>
                 <div class="portfolio-links">
+                  <a href="/briefcase/rayodent" title="Más detalles"><i class="bi bi-plus"></i></a>
                   <a href="http://rayodent.com/" target="_blank" title="Link"><i class="bi bi-link"></i></a>
                 </div>
               </div>
@@ -51,11 +52,11 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/agricola1.png" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                
+              <div class="portfolio-info">               
                 <h4>FINCAS DE EL ORO</h4>
                 <p>Diseño y Desarrollo Web</p>
                 <div class="portfolio-links">
+                  <a href="/briefcase/finca-el-oro" title="Más detalles"><i class="bi bi-plus"></i></a>
                   <a href="http://fincasdeeloro.com.ec/" target="_blank" title="Link"><i class="bi bi-link"></i></a>
                 </div>
               </div>
