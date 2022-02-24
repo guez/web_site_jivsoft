@@ -59,6 +59,32 @@
             </div>
           </div>
 
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/agricola1.png" class="img-fluid" alt="">
+              <div class="portfolio-info">               
+                <h4>KEVIN LUNA REMODELING</h4>
+                <div class="portfolio-links">
+                  <a href="/briefcase/finca-el-oro" title="Más detalles"><i class="bi bi-plus"></i></a>
+                  <a href="http://klremodelingllc.com/" target="_blank" title="Link"><i class="bi bi-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/agricola1.png" class="img-fluid" alt="">
+              <div class="portfolio-info">               
+                <h4>CURIOSITY</h4>
+                <div class="portfolio-links">
+                  <a href="/briefcase/finca-el-oro" title="Más detalles"><i class="bi bi-plus"></i></a>
+                  <a href="http://curiosity.work/" target="_blank" title="Link"><i class="bi bi-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
         </div>
 
       </div>
