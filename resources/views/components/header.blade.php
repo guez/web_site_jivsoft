@@ -19,7 +19,7 @@
             <ul>
               <li><a href="about">Visión</a></li>
               <li><a href="about">Misión</a></li>
-              <li><a href="#">Objetivos</a></li>
+              <li><a href="objetives">Objetivos</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="/contactos">Contactos</a></li>
