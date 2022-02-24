@@ -36,6 +36,7 @@
               <ul>
                 <li><strong>Categoría</strong>: Página Web</li>
                 <li><strong>Cliente</strong>: Asociación Agraria Bananera</li>
+                <li><strong>Descripción</strong>: Página web multilenguaje con diseño responsive para la Asociación Agraria Bananera, en la que se ha buscado una imagen fresca, agradable, limpia pero sobre todo confiable, para conectar con el público objetivo y dar confianza, algo muy importante en este sector.</li>
                 
               </ul>
             </div>
