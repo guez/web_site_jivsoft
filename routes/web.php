@@ -18,6 +18,7 @@ Route::view('/contactos', 'pages.contact')->name('contact');
 Route::view('/portafolio', 'pages.portafolio')->name('portafolio');
 Route::view('/services', 'pages.services')->name('services');
 Route::view('/objetives', 'pages.objetives')->name('objetives');
+Route::view('/mission', 'pages.mission')->name('mission');
 
 
 
