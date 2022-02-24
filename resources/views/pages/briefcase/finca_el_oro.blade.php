@@ -31,7 +31,7 @@
           
 
           <div class="col-lg-4">
-            <div class="portfolio-info">
+            <div class="briefcase-info">
               <h3>Información del Proyecto</h3>
               <ul>
                 <li><strong>Categoría</strong>: Página Web</li>
