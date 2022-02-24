@@ -36,7 +36,9 @@
               <ul>
                 <li><strong>Categoría</strong>: Página Web</li>
                 <li><strong>Cliente</strong>: Curiosity "The Studio"</li>
-                <li><strong>Descripción</strong>: Para este proyecto se ha creado un diseño totalmente a medida según los requisitos y funcionalidad del cliente, cuenta con multilenguaje en inglés y español. Curiosity es uma empresa que se dedica a mejorar la imagen corporativa, creando e impulsando proyectos SMM. </li>
+                <li><strong>Descripción</strong>: Para este proyecto se ha creado un diseño totalmente a medida según los requisitos y funcionalidad del cliente, cuenta con multilenguaje en inglés y español. 
+                <br>
+                <p>Curiosity es una empresa que se dedica a mejorar la imagen corporativa, creando e impulsando proyectos SMM.</p>  </li>
               </ul>
             </div>
 
