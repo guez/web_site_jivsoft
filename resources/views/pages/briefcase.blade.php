@@ -38,7 +38,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/optica1.png" class="img-fluid" alt="">
               <div class="portfolio-info">               
-                <h4>ÓPTICA MANGER</h4>
+                <h4>ÓPTICA MANAGER</h4>
                 <div class="portfolio-links">
                   <a href="/briefcase/optica-israel" title="Más detalles"><i class="bi bi-plus"></i></a>
                 </div>
