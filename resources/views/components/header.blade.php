@@ -12,7 +12,7 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="/">Inicio</a></li>
-          <li><a class="nav-link scrollto" href="/portafolio">Portfolio</a></li>
+          <li><a class="nav-link scrollto" href="/briefcase">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="/services">Servicios</a></li>
           <li><a class="nav-link scrollto" href="#team">Equipo</a></li>
           <li class="dropdown"><a href="#about"><span>Nosotros</span> <i class="bi bi-chevron-down"></i></a>
