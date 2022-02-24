@@ -36,7 +36,20 @@
               <ul>
                 <li><strong>Categoría</strong>: Sistema a Medida</li>
                 <li><strong>Cliente</strong>: Óptica Israel</li>
-                
+                <li><strong>Características</strong>: </li>
+                <ol type="1"> 
+                <li>Gestión de Pacientes</li>
+                <li>Gestión Sucursales</li>
+                <li>Gestión Bodegas</li>
+                <li>Gestión de Productos</li>
+                <li>Gestión de Proveedores</li>
+                <li>Gestión Usuario y Roles</li>
+                <li>Historial Clínico</li>
+                <li>Facturación Electrónica</li>
+                <li>Inventario</li>
+                <li>Reportes</li>
+                <li>Reconocimiento Facial</li>
+              </ol>
               </ul>
             </div>
 
