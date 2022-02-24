@@ -17,7 +17,7 @@
             </div>
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-              <div class="icon"><i class="bx bx-lightbulb"></i></div>
+              <div class="icon"><i class="bx bx-building"></i></div>
               <p class="description">Ofrecer soluciones tecnológicas
                   innovadoras en la automatización
                   de sus procesos de negocio.</p>
