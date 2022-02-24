@@ -17,28 +17,28 @@
             </div>
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-              <div class="icon"><i class="bx bx-building"></i></div>
+              <div class="icon"><i class="bx bx-sun"></i></div>
               <p class="description">Ofrecer soluciones tecnológicas
                   innovadoras en la automatización
                   de sus procesos de negocio.</p>
             </div>
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-              <div class="icon"><i class="bx bx-file-person-fill"></i></div>
+              <div class="icon"><i class="bx bx-briefcase"></i></div>
               <p class="description">Brindar nuestros conocimientos 
                    y experiencia al servicio de
                   nuestros clientes.</p>
             </div>
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-              <div class="icon"><i class="bx bx-file-check"></i></div>
+              <div class="icon"><i class="bx bx-list-check"></i></div>
               <p class="description">Aplicar los estándares de
                   calidad en el desarrollo de
                   software.</p>
             </div>
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-              <div class="icon"><i class="bx bx-clock"></i></div>
+              <div class="icon"><i class="bx bx-stopwatch"></i></div>
               <p class="description">Acompañar antes, durante y después
                   de la transformación empresarial y
                   tecnológica de su negocio.</p>
