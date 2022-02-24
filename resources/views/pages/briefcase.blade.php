@@ -23,7 +23,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.png" class="img-fluid" alt="">
+              <img src="assets/img/briefcases/portfolio-2.png" class="img-fluid" alt="">
               <div class="briefcase-info">               
                 <h4>RAYODENT</h4>
                 <div class="briefcase-links">
@@ -36,7 +36,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/optica1.png" class="img-fluid" alt="">
+              <img src="assets/img/briefcases/optica1.png" class="img-fluid" alt="">
               <div class="briefcase-info">               
                 <h4>ÓPTICA MANAGER</h4>
                 <div class="briefcase-links">
@@ -48,7 +48,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/agricola1.png" class="img-fluid" alt="">
+              <img src="assets/img/briefcases/agricola1.png" class="img-fluid" alt="">
               <div class="briefcase-info">               
                 <h4>FINCAS DE EL ORO</h4>
                 <div class="briefcase-links">
@@ -61,7 +61,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/kevin.png" class="img-fluid" alt="">
+              <img src="assets/img/briefcases/kevin.png" class="img-fluid" alt="">
               <div class="briefcase-info">               
                 <h4>KEVIN LUNA REMODELING</h4>
                 <div class="briefcase-links">
@@ -74,7 +74,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/curiosity.png" class="img-fluid" alt="">
+              <img src="assets/img/briefcases/curiosity.png" class="img-fluid" alt="">
               <div class="briefcase-info">               
                 <h4>CURIOSITY</h4>
                 <div class="briefcase-links">
