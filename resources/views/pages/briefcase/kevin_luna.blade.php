@@ -36,8 +36,11 @@
               <ul>
                 <li><strong>Categoría</strong>: Página Web</li>
                 <li><strong>Cliente</strong>: Kevin Luna</li>
-                <li><strong>Descripción</strong>: Para este proyecto se ha creado un diseño a medida en el que principalmente hacemos lucir las fotos de gran calidad de la remodelación de habitaciones, cocinas, dormitorios, baños, en un entorno de diseño elegante y moderno a la vez.
-                La portada destaca por una gran fotografía delimitada por una original forma que le da estilo y personalidad a toda la página web. También un título claro y potente, que hace que la vista del visitante se dirija directamente a ella.</li>
+                <li><strong>Descripción</strong>: <p> Para este proyecto se ha creado un diseño a medida en el que principalmente hacemos lucir las fotos de gran calidad de la remodelación de habitaciones, cocinas, dormitorios, baños, en un entorno de diseño elegante y moderno a la vez. </p>
+                <br/>
+                <p> La portada destaca por una gran fotografía delimitada por una original forma que le da estilo y personalidad a toda la página web. </p>
+                <br/>
+                <p> También un título claro y potente, que hace que la vista del visitante se dirija directamente a ella.</p></li>
               </ul>
             </div>
 
