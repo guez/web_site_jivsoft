@@ -2,7 +2,7 @@
 @section('main')
 
 <!-- ======= About Us Section ======= -->
-<section id="objetives" class="objetives">
+<section id="about" class="about">
       <div class="container" data-aos="fade-up">
         <div class="row no-gutters">
           <div class="col-lg-6 video-box">
