@@ -24,8 +24,7 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-2.png" class="img-fluid" alt="">
-              <div class="portfolio-info">
-               
+              <div class="portfolio-info">               
                 <h4>RAYODENT</h4>
                 <p>Diseño y Desarrollo Web</p>
                 <div class="portfolio-links">
@@ -43,7 +42,7 @@
                 <h4>ÓPTICA MANGER</h4>
                 <p>Sistema a Medida</p>
                 <div class="portfolio-links">
-                  <a href="/briefcase/optica-israel" title="Más detalles"><i class="bi bi-link"></i></a>
+                  <a href="/briefcase/optica-israel" title="Más detalles"><i class="bi bi-plus"></i></a>
                 </div>
               </div>
             </div>
