@@ -36,7 +36,7 @@
               <ul>
                 <li><strong>Categoría</strong>: Página Web</li>
                 <li><strong>Cliente</strong>: Estudio Radiológico Dental</li>
-                
+                <li><strong>Descripción</strong>: Página web con diseño responsive para el Estudio Radiológico Dental RAYODENT. Para este cliente se ha podido realizar un proyecto más amplio y global en el que se ha desarrollado un sistema web.</li>
               </ul>
             </div>
 
