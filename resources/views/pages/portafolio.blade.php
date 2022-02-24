@@ -68,20 +68,6 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/fisio1.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>FISICUL TV-Online</h4>
-                <p>Diseño y Desarrollo Web</p>
-                <div class="portfolio-links">
-               <!--   <a href="assets/img/portfolio/fisio1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bi bi-plus"></i></a> -->
-                  <a href="https://www.fisicul.com/tv" target="_blank" title="Link"><i class="bi bi-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
         </div>
 
       </div>
