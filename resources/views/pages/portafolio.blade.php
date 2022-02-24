@@ -29,9 +29,6 @@
                 <h4>RAYODENT</h4>
                 <p>Diseño y Desarrollo Web</p>
                 <div class="portfolio-links">
-                <!--  <a href="assets/img/portfolio/portfolio-2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="RAYODENT"><i class="bi bi-plus"></i></a> -->
-                  <!--<a href="#">http://rayodent.com/</a>-->
-                <!--  <a href="portfolio-details.html" title="Link"><i class="bi bi-link"></i></a> -->
                   <a href="http://rayodent.com/" target="_blank" title="Link"><i class="bi bi-link"></i></a>
                 </div>
               </div>
@@ -46,7 +43,6 @@
                 <h4>ÓPTICA MANGER</h4>
                 <p>Sistema a Medida</p>
                 <div class="portfolio-links">
-                  <!--<a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="RAYODENT"><i class="bi bi-plus"></i></a> -->
                   <a href="portfolio-details.html" title="Más detalles"><i class="bi bi-link"></i></a>
                 </div>
               </div>
@@ -61,7 +57,6 @@
                 <h4>FINCAS DE EL ORO</h4>
                 <p>Diseño y Desarrollo Web</p>
                 <div class="portfolio-links">
-                <!--  <a href="assets/img/portfolio/agricola1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bi bi-plus"></i></a> -->
                   <a href="http://fincasdeeloro.com.ec/" target="_blank" title="Link"><i class="bi bi-link"></i></a>
                 </div>
               </div>
