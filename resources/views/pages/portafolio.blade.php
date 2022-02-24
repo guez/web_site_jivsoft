@@ -55,7 +55,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/agricola1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/agricola1.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Asociación Agraria Bananera</h4>
                 <h4>FINCAS DE EL ORO</h4>
