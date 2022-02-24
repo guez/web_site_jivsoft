@@ -24,7 +24,7 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-2.png" class="img-fluid" alt="">
-              <div class="portfolio-info">               
+              <div class="briefcase-info">               
                 <h4>RAYODENT</h4>
                 <div class="briefcase-links">
                   <a href="/briefcase/rayodent" title="Más detalles"><i class="bi bi-plus"></i></a>
@@ -37,7 +37,7 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/optica1.png" class="img-fluid" alt="">
-              <div class="portfolio-info">               
+              <div class="briefcase-info">               
                 <h4>ÓPTICA MANAGER</h4>
                 <div class="briefcase-links">
                   <a href="/briefcase/optica-israel" title="Más detalles"><i class="bi bi-plus"></i></a>
@@ -49,7 +49,7 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/agricola1.png" class="img-fluid" alt="">
-              <div class="portfolio-info">               
+              <div class="briefcase-info">               
                 <h4>FINCAS DE EL ORO</h4>
                 <div class="briefcase-links">
                   <a href="/briefcase/finca-el-oro" title="Más detalles"><i class="bi bi-plus"></i></a>
@@ -62,7 +62,7 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/kevin.png" class="img-fluid" alt="">
-              <div class="portfolio-info">               
+              <div class="briefcase-info">               
                 <h4>KEVIN LUNA REMODELING</h4>
                 <div class="briefcase-links">
                   <a href="/briefcase/kevin-luna" title="Más detalles"><i class="bi bi-plus"></i></a>
@@ -75,7 +75,7 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/curiosity.png" class="img-fluid" alt="">
-              <div class="portfolio-info">               
+              <div class="briefcase-info">               
                 <h4>CURIOSITY</h4>
                 <div class="briefcase-links">
                   <a href="/briefcase/curiosity" title="Más detalles"><i class="bi bi-plus"></i></a>
