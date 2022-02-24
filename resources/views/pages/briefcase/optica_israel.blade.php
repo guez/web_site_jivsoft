@@ -12,15 +12,15 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/optica1.png" alt="">
+                  <img src="/assets/img/briefcase/optica/optica1.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/optica1.png" alt="">
+                  <img src="/assets/img/briefcase/optica/optica1.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/optica1.png" alt="">
+                  <img src="/assets/img/briefcase/optica/optica1.png" alt="">
                 </div>
 
               </div>
