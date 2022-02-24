@@ -17,7 +17,7 @@ Route::view('/', 'pages.home')->name('home');
 Route::view('/contactos', 'pages.contact')->name('contact');
 Route::view('/portafolio', 'pages.portafolio')->name('portafolio');
 Route::view('/services', 'pages.services')->name('services');
-Route::view('/about', 'pages.about')->name('about');
+Route::view('/objetives', 'pages.objetives')->name('objetives');
 
 
 
