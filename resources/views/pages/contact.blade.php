@@ -14,7 +14,7 @@
             <div class="info-box">
               <i class="bx bx-map"></i>
               <h3>Dirección</h3>
-              <p>Machala -Ecuador</p>
+              <p>Machala - Ecuador</p>
             </div>
           </div>
 
