@@ -17,7 +17,7 @@
           <li><a class="nav-link scrollto" href="#team">Equipo</a></li>
           <li class="dropdown"><a href="#"><span>Nosotros</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="about">Visión</a></li>
+              <li><a href="vision">Visión</a></li>
               <li><a href="mission">Misión</a></li>
               <li><a href="objetives">Objetivos</a></li>
             </ul>
