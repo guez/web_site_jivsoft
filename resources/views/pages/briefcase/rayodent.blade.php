@@ -12,15 +12,15 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/optica1.png" alt="">
+                  <img src="/assets/img/briefcase/rayodent/image1.jpg" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/optica1.png" alt="">
+                  <img src="/assets/img/briefcase/rayodent/image2.jpg" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/optica1.png" alt="">
+                  <img src="/assets/img/briefcase/rayodent/image3.jpg" alt="">
                 </div>
 
               </div>
