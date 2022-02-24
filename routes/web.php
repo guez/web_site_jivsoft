@@ -23,6 +23,8 @@ Route::view('/briefcase/optica-israel', 'pages.briefcase.optica_israel')->name('
 Route::view('/briefcase/rayodent', 'pages.briefcase.rayodent')->name('briefcase.rayodent');
 Route::view('/briefcase/optica-israel', 'pages.briefcase.optica_israel')->name('briefcase.optica-israel');
 Route::view('/briefcase/finca-el-oro', 'pages.briefcase.finca_el_oro')->name('briefcase.finca-el-oro');
+Route::view('/briefcase/kevin-luna', 'pages.briefcase.kevin_luna')->name('briefcase.kevin-luna');
+Route::view('/briefcase/curiosity', 'pages.briefcase.curiosity')->name('briefcase.curiosity');
 
 
 
