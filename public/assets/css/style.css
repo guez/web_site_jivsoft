@@ -866,7 +866,7 @@ section {
 .portfolio .portfolio-wrap img {
   transition: 0.3s;
 }
-.portfolio .portfolio-wrap .portfolio-info {
+.portfolio .portfolio-wrap .briefcase-info {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -879,20 +879,20 @@ section {
   right: 0;
   transition: 0.3s;
   text-align: center;
-  background: rgba(31, 53, 72, 0.6);
+  background: rgba(0, 3, 5, 0.712);
   padding-bottom: 30px;
 }
-.portfolio .portfolio-wrap .portfolio-info h4 {
+.portfolio .portfolio-wrap .briefcase-info h4 {
   font-size: 20px;
   color: #fff;
   font-weight: 600;
 }
-.portfolio .portfolio-wrap .portfolio-info p {
+.portfolio .portfolio-wrap .briefcase-info p {
   color: #fff;
   font-size: 14px;
   text-transform: uppercase;
 }
-.portfolio .portfolio-wrap .portfolio-info a {
+.portfolio .portfolio-wrap .briefcase-info a {
   color: #0085ad;
   margin: 0 4px;
   line-height: 0;
@@ -906,18 +906,18 @@ section {
   justify-content: center;
   transition: 0.3s;
 }
-.portfolio .portfolio-wrap .portfolio-info a i {
+.portfolio .portfolio-wrap .briefcase-info a i {
   font-size: 22px;
   line-height: 0;
 }
-.portfolio .portfolio-wrap .portfolio-info a:hover {
+.portfolio .portfolio-wrap .briefcase-info a:hover {
   background: #0085ad;
   color: #fff;
 }
 .portfolio .portfolio-wrap:hover {
   box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.16);
 }
-.portfolio .portfolio-wrap:hover .portfolio-info {
+.portfolio .portfolio-wrap:hover .briefcase-info {
   opacity: 1;
   padding-bottom: 0;
 }
@@ -948,24 +948,26 @@ section {
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #0085ad;
 }
-.portfolio-details .portfolio-info {
+.portfolio-details .briefcase-info {
   padding: 30px;
   box-shadow: 0px 0 30px rgba(31, 53, 72, 0.08);
 }
-.portfolio-details .portfolio-info h3 {
+.portfolio-details .briefcase-info h3 {
   font-size: 22px;
   font-weight: 700;
   margin-bottom: 20px;
   padding-bottom: 20px;
   border-bottom: 1px solid #eee;
 }
-.portfolio-details .portfolio-info ul {
+.portfolio-details .briefcase-info ul {
   list-style: none;
   padding: 0;
   font-size: 15px;
+  text-align: justify; 
 }
-.portfolio-details .portfolio-info ul li + li {
+.portfolio-details .briefcase-info ul li + li {
   margin-top: 10px;
+  text-align: justify; 
 }
 .portfolio-details .portfolio-description {
   padding-top: 30px;
@@ -977,6 +979,7 @@ section {
 }
 .portfolio-details .portfolio-description p {
   padding: 0;
+   
 }
 
 /*--------------------------------------------------------------
