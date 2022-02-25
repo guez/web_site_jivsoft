@@ -14,7 +14,7 @@
             <h4 class="title"><a href="">Página Web</a></h4>
             <p class="description">En la actualidad, es imprescindible que una empresa u
               organización tenga presencia
-              en la web. JIVSOFT brinda a sus clientes
+              en la web. JIVSoft brinda a sus clientes
               la mejor experiencia con una
               atractiva aplicación web,
               desde la planificación y
@@ -27,7 +27,7 @@
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
             <div class="icon"><i class="bi bi-phone-vibrate"></i></div>
             <h4 class="title"><a href="">Aplicaciones Móviles</a></h4>
-            <p class="description">JIVSOFT te ofrece soluciones
+            <p class="description">JIVSoft te ofrece soluciones
               profesionales, creativas, desarrolladas a medida para
               dispositivos móviles; desde
               el diseño conceptual, programación y publicación de las
@@ -36,7 +36,7 @@
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="bi bi-laptop"></i></div>
             <h4 class="title"><a href="">Sistemas a Medida</a></h4>
-            <p class="description">JIVSOFT le ofrece sistemas 100% personalizados, que cubran
+            <p class="description">JIVSoft le ofrece sistemas 100% personalizados, que cubran
               las necesidades de cada negocio. Somos una empresa especializada en programación de plataformas y aplicaciones web
               administrables, estables y escalables.</p>
           </div>
