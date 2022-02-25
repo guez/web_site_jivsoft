@@ -24,7 +24,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="briefcase">Portafolio</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="services">Servicios</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="team">Equipo</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Nosotros</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="hero">Nosotros</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="contact">Contactos</a></li>
             </ul>
           </div>
