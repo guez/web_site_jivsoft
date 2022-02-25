@@ -5,7 +5,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Contactanos</h2>
+          <h2>Contactos</h2>
         </div>
 
         <div class="row">
@@ -14,23 +14,23 @@
             <div class="info-box">
               <i class="bx bx-map"></i>
               <h3>Dirección</h3>
-              <p>A108 Adam Street, New York, NY 535022</p>
+              <p>Machala - Ecuador</p>
             </div>
           </div>
 
           <div class="col-lg-3 d-flex" data-aos="fade-up" data-aos-delay="100">
             <div class="info-box">
               <i class="bx bx-envelope"></i>
-              <h3>Nuestro Email</h3>
-              <p>info@example.com<br>contact@example.com</p>
+              <h3>Email</h3>
+              <p>jivsoft@hotmail.com</p>
             </div>
           </div>
 
           <div class="col-lg-3 d-flex" data-aos="fade-up" data-aos-delay="200">
             <div class="info-box ">
               <i class="bx bx-phone-call"></i>
-              <h3>LLamanos</h3>
-              <p>+593 978 7667 62<br>+1 6678 254445 41</p>
+              <h3>Teléfonos</h3>
+              <p>+593 97 876 6762⁣<br>+593 96 125 5112</p>
             </div>
           </div>
 
@@ -38,10 +38,10 @@
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-lg-6 form-group">
-                  <input type="text" class="form-control" name="Tu Nombre" id="Tu Nombre" placeholder="Tu Nombre" required>
+                  <input type="text" class="form-control" name="Nombre" id="Nombre" placeholder="Nombre" required>
                 </div>
                 <div class="col-lg-6 form-group">
-                  <input type="email" class="form-control" name="Tu Correo" id="Tu Correo" placeholder="Tu Correo" required>
+                  <input type="email" class="form-control" name="Correo electrónico" id="Correo electrónico" placeholder="Correo electrónico" required>
                 </div>
               </div>
               <div class="form-group">
@@ -53,7 +53,7 @@
               <div class="my-3">
                 <div class="loading">Cargando</div>
                 <div class="error-message"></div>
-                <div class="sent-message">Tu mensaje ah sido enviado, Gracias!</div>
+                <div class="sent-message">Tu mensaje ha sido enviado, Gracias!</div>
               </div>
               <div class="text-center"><button type="submit">Enviar</button></div>
             </form>

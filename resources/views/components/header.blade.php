@@ -11,11 +11,11 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="hero">Inicio</a></li>
-          <li><a class="nav-link scrollto" href="briefcase">Portafolio</a></li>
-          <li><a class="nav-link scrollto" href="services">Servicios</a></li>
-          <li><a class="nav-link scrollto" href="team">Equipo</a></li>
-          <li class="dropdown"><a href="#about"><span>Nosotros</span> <i class="bi bi-chevron-down"></i></a>
+          <li><a class="nav-link scrollto active" href="/hero">Inicio</a></li>
+          <li><a class="nav-link scrollto" href="/briefcase">Portafolio</a></li>
+          <li><a class="nav-link scrollto" href="/services">Servicios</a></li>
+          <li><a class="nav-link scrollto" href="/team">Equipo</a></li>
+          <li class="dropdown"><a href="#"><span>Nosotros</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="vision">Visión</a></li>
               <li><a href="mission">Misión</a></li>
