@@ -8,7 +8,7 @@
 
         <div class="section-title">
           <h2>Nuestro Equipo</h2>
-          <p>En JIVSoft cuenta con los mejores profesionales apasionados los cuales hacen posible la visión de su proyecto.</p>
+          <p>En JIVSoft contamos con los mejores profesionales apasionados los cuales hacen posible la visión de su proyecto.</p>
         </div>
 
         <div class="row">
