@@ -7,8 +7,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Our Team</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem.</p>
+          <h2>Nuestro Equipo</h2>
+          <p>En JIVSoft cuenta con los mejores profesionales apasionados los cuales hacen posible la visión de su proyecto.</p>
         </div>
 
         <div class="row">
