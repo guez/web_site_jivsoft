@@ -50,7 +50,7 @@
               <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Ing. Cristina Calero</h4>
-                <span>Jefa de Desarrollo</span>
+                <span>Jefe de Desarrollo</span>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
