@@ -15,8 +15,15 @@ use Illuminate\Support\Facades\Route;
 
 Route::view('/', 'pages.home')->name('home');
 Route::view('/contactos', 'pages.contact')->name('contact');
-Route::view('/portafolio', 'pages.portafolio')->name('portafolio');
+Route::view('/briefcase', 'pages.briefcase')->name('briefcase');
 Route::view('/services', 'pages.services')->name('services');
 
+
+Route::view('/briefcase/optica-israel', 'pages.briefcase.optica_israel')->name('briefcase.optica-israel');
+Route::view('/briefcase/rayodent', 'pages.briefcase.rayodent')->name('briefcase.rayodent');
+Route::view('/briefcase/optica-israel', 'pages.briefcase.optica_israel')->name('briefcase.optica-israel');
+Route::view('/briefcase/finca-el-oro', 'pages.briefcase.finca_el_oro')->name('briefcase.finca-el-oro');
+Route::view('/briefcase/kevin-luna', 'pages.briefcase.kevin_luna')->name('briefcase.kevin-luna');
+Route::view('/briefcase/curiosity', 'pages.briefcase.curiosity')->name('briefcase.curiosity');
 
 
