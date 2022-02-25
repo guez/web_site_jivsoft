@@ -6,8 +6,8 @@
         <i class="bi bi-phone-fill phone-icon"></i> +593 97 876 6762
       </div>
       <div class="social-links d-none d-md-block">
-        <a href="https://www.facebook.com/JIVSoft" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="https://www.instagram.com/jivsoft_sa" class="instagram"><i class="bi bi-instagram"></i></a>
+        <a href="https://www.facebook.com/JIVSoft" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href="https://www.instagram.com/jivsoft_sa" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
       </div>
     </div>
   </section>
