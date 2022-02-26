@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ContactController;
 
 /*
 |--------------------------------------------------------------------------
@@ -29,6 +30,11 @@ Route::view('/briefcase/finca-el-oro', 'pages.briefcase.finca_el_oro')->name('br
 Route::view('/briefcase/kevin-luna', 'pages.briefcase.kevin_luna')->name('briefcase.kevin-luna');
 Route::view('/briefcase/curiosity', 'pages.briefcase.curiosity')->name('briefcase.curiosity');
 
+
+/**
+ * FUNCTIONS
+ */
+Route::post('/contactRegister', [ContactController::class, 'registerContact']);
 
 
 
