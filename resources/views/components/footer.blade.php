@@ -14,18 +14,19 @@
             <div class="social-links mt-3">
               <a href="https://www.facebook.com/JIVSoft" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
               <a href="https://www.instagram.com/jivsoft_sa" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
+              <a href="https://www.linkedin.com/company/jivsoft-sa/" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
             </div>
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Menu</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="hero">Inicio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/">Inicio</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="briefcase">Portafolio</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="services">Servicios</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="team">Equipo</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="hero">Nosotros</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="contact">Contactos</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="mission">Nosotros</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="contactos">Contactos</a></li>
             </ul>
           </div>
 
