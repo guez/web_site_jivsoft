@@ -3,7 +3,7 @@
     <div class="container d-flex align-items-center">
 
       <div class="logo me-auto">
-        <img src="assets/img/logo.png" >
+        <img src="/assets/img/logo.png" >
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
@@ -11,7 +11,7 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="/hero">Inicio</a></li>
+          <li><a class="nav-link scrollto active" href="/">Inicio</a></li>
           <li><a class="nav-link scrollto" href="/briefcase">Portafolio</a></li>
           <li><a class="nav-link scrollto" href="/services">Servicios</a></li>
           <li><a class="nav-link scrollto" href="/team">Equipo</a></li>
@@ -22,7 +22,7 @@
               <li><a href="objectives">Objetivos</a></li>
             </ul>
           </li>
-          <li><a class="nav-link scrollto" href="contact">Contactos</a></li>
+          <li><a class="nav-link scrollto" href="/contactos">Contactos</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
