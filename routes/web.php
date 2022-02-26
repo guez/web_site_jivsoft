@@ -36,3 +36,5 @@ Route::view('/briefcase/curiosity', 'pages.briefcase.curiosity')->name('briefcas
  */
 Route::post('/contactRegister', [ContactController::class, 'registerContact']);
 
+
+
