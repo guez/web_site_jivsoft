@@ -35,7 +35,7 @@
                 <h4>Tdg. Junior Nieves</h4>
                 <span>Jefe de Marketing</span>
                 <div class="social">
-                  <a href="https://www.facebook.com/junioryahik.nieves"><i class="bi bi-facebook"></i></a>
+                  <a href="https://www.facebook.com/junioryahik.nieves" target="_blank"><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
@@ -50,9 +50,9 @@
                 <h4>Ing. Cristina Calero</h4>
                 <span>Jefe de Desarrollo</span>
                 <div class="social">
-                  <a href="https://www.facebook.com/cristina.calero.39/"><i class="bi bi-facebook"></i></a>
-                  <a href="https://www.instagram.com/cristinalcalero/"><i class="bi bi-instagram"></i></a>
-                  <a href="https://www.linkedin.com/in/cristina-lissette-calero-ordo%C3%B1ez/"><i class="bi bi-linkedin"></i></a>
+                  <a href="https://www.facebook.com/cristina.calero.39/" target="_blank"><i class="bi bi-facebook"></i></a>
+                  <a href="https://www.instagram.com/cristinalcalero/" target="_blank"><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.linkedin.com/in/cristina-lissette-calero-ordo%C3%B1ez/" target="_blank"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
             </div>
@@ -65,8 +65,8 @@
                 <h4>Abg. Estefanía Tenemaza</h4>
                 <span>Departamento Legal</span>
                 <div class="social">
-                  <a href="https://www.facebook.com/profile.php?id=1498197959"><i class="bi bi-facebook"></i></a>
-                  <a href="https://www.instagram.com/estefaniatenemaza/"><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.facebook.com/profile.php?id=1498197959" target="_blank"><i class="bi bi-facebook"></i></a>
+                  <a href="https://www.instagram.com/estefaniatenemaza/" target="_blank"><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
