@@ -174,7 +174,7 @@
       </div>
     </section><!-- End Our Portfolio Section -->
 
-    <!-- ======= Our Team Section ======= -->
+<!-- ======= Our Team Section ======= -->
 <section id="team" class="team">
       <div class="container" data-aos="fade-up">
 
@@ -192,10 +192,9 @@
                 <h4>Ing. Jessica Villacis</h4>
                 <span>Gerente</span>
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href="https://www.facebook.com/jessica.villacis.5" target="_blank"><i class="bi bi-facebook"></i></a>
+                  <a href="https://www.instagram.com/jessinvillacis/" target="_blank"><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.linkedin.com/in/jessica-villacis-404729228/" target="_blank"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
             </div>
@@ -205,13 +204,12 @@
             <div class="member">
               <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Tdg. Junior Nieves</h4>
+                <h4>Lic. Junior Nieves</h4>
                 <span>Jefe de Marketing</span>
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href="https://www.facebook.com/junioryahik.nieves" target="_blank"><i class="bi bi-facebook"></i></a>
+                  <a href="https://www.instagram.com/yeik.junior/" target="_blank"><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.linkedin.com/in/junior-nieves-3910471b7/" target="_blank"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
             </div>
@@ -224,10 +222,9 @@
                 <h4>Ing. Cristina Calero</h4>
                 <span>Jefe de Desarrollo</span>
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href="https://www.facebook.com/cristina.calero.39/" target="_blank"><i class="bi bi-facebook"></i></a>
+                  <a href="https://www.instagram.com/cristinalcalero/" target="_blank"><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.linkedin.com/in/cristina-lissette-calero-ordo%C3%B1ez/" target="_blank"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
             </div>
@@ -237,13 +234,12 @@
             <div class="member">
               <div class="pic"><img src="assets/img/team/team-4.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Abg. Estefanía Tenemaza</h4>
-                <span>Departamento Legal</span>
+                <h4>Ing. Diego Orellana</h4>
+                <span>Asesoría Financiera</span>
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href="https://www.facebook.com/daosorellana.orellanasanchez" target="_blank"><i class="bi bi-facebook"></i></a>
+                  <a href="https://www.instagram.com/daos009/" target="_blank"><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.linkedin.com/in/diego-andres-orellana-sanchez-620805a9/" target="_blank"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
             </div>
@@ -252,7 +248,7 @@
         </div>
 
       </div>
-    </section><!-- End Our Team Section -->    
+    </section><!-- End Our Team Section -->     
 
     @include('sections.contact')
 
