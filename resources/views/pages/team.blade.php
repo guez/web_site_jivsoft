@@ -32,12 +32,12 @@
             <div class="member">
               <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Tdg. Junior Nieves</h4>
+                <h4>Lic. Junior Nieves</h4>
                 <span>Jefe de Marketing</span>
                 <div class="social">
                   <a href="https://www.facebook.com/junioryahik.nieves" target="_blank"><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href="https://www.instagram.com/yeik.junior/" target="_blank"><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.linkedin.com/in/junior-nieves-3910471b7/" target="_blank"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
             </div>
@@ -62,12 +62,12 @@
             <div class="member">
               <div class="pic"><img src="assets/img/team/team-4.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Abg. Estefanía Tenemaza</h4>
-                <span>Departamento Legal</span>
+                <h4>Ing. Diego Orellana</h4>
+                <span>Asesoría Financiera</span>
                 <div class="social">
-                  <a href="https://www.facebook.com/profile.php?id=1498197959" target="_blank"><i class="bi bi-facebook"></i></a>
-                  <a href="https://www.instagram.com/estefaniatenemaza/" target="_blank"><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href="https://www.facebook.com/daosorellana.orellanasanchez" target="_blank"><i class="bi bi-facebook"></i></a>
+                  <a href="https://www.instagram.com/daos009/" target="_blank"><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.linkedin.com/in/diego-andres-orellana-sanchez-620805a9/" target="_blank"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
             </div>
