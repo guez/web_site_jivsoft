@@ -1,5 +1,7 @@
 @extends("layout")
-
+@section('section_top')
+@include("sections.hero_section")
+@endsection
 @section('main')
 
 <!-- ======= Our Team Section ======= -->
