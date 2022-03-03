@@ -1,4 +1,7 @@
 @extends('layout')
+@section('section_top')
+@include("sections.hero_section")
+@endsection
 @section('main')
   <!-- ======= Services Section ======= -->
   <section id="services" class="services">
