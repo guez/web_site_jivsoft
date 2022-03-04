@@ -1,4 +1,7 @@
 @extends('layout')
+@section('section_top')
+@include("sections.hero_section")
+@endsection
 @section('main')
 <!-- ======= Our Portfolio Section ======= -->
 <section id="portfolio" class="portfolio section-bg">

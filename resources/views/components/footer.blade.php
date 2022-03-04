@@ -5,26 +5,28 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-info">
-            <h3>JIVSOFT</h3>
+            <h3>JIVSoft</h3>
             <p>
               Machala - Ecuador <br>
               <strong>Teléfono:</strong> +593 97 876 6762<br>
               <strong>Email:</strong> jivsoft@hotmail.com<br>
             </p>
             <div class="social-links mt-3">
-              <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+              <a href="https://www.facebook.com/JIVSoft" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="https://www.instagram.com/jivsoft_sa" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
+              <a href="https://www.linkedin.com/company/jivsoft-sa/" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
             </div>
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Menu</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#hero">Inicio</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#about">Nosotros</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#services">Servicios</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Portafolio</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#contact">Contáctanos</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/">Inicio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="briefcase">Portafolio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services">Servicios</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="team">Equipo</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="mission">Nosotros</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="contactos">Contactos</a></li>
             </ul>
           </div>
 
@@ -55,14 +57,14 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Mamba</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>JIVSoft</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/mamba-one-page-bootstrap-template-free/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Designed by <a href="http://jivsoft.com/">JIVSoft</a>
       </div>
     </div>
   </footer><!-- End Footer -->
