@@ -12,7 +12,7 @@
           <div class="carousel-item active" style="background-image: url('assets/img/slide/banner1.jpg');">
             <div class="carousel-container">
               <div class="carousel-content container">
-                < <h2 class="animate__animated animate__fadeInDown">Bienvenido a <span>JIVSoft</span></h2>
+                 <h2 class="animate__animated animate__fadeInDown">Bienvenido a <span>JIVSoft</span></h2>
                 <p style="text-align:justify" class="animate__animated animate__fadeInUp">Somos una empresa dedicada al desarrollo
                   de software con más de 5 años en el mercado tecnológico, brindando soluciones web
                   creativas a empresas y personas interesadas
