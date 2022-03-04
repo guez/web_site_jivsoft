@@ -18,6 +18,9 @@ Route::view('/', 'pages.home')->name('home');
 Route::view('/contactos', 'pages.contact')->name('contact');
 Route::view('/briefcase', 'pages.briefcase')->name('briefcase');
 Route::view('/services', 'pages.services')->name('services');
+Route::view('/team', 'pages.team')->name('team');
+
+
 Route::view('/objetives', 'pages.objetives')->name('objetives');
 Route::view('/mission', 'pages.mission')->name('mission');
 Route::view('/vision', 'pages.vision')->name('vision');
@@ -32,7 +35,7 @@ Route::view('/briefcase/curiosity', 'pages.briefcase.curiosity')->name('briefcas
 Route::view('/briefcase/rayodentapp', 'pages.briefcase.rayodentapp')->name('briefcase.rayodentapp');
 
 
-/**
+/*
  * FUNCTIONS
  */
 Route::post('/contactRegister', [ContactController::class, 'registerContact']);
