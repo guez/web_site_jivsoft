@@ -65,7 +65,7 @@
               <div class="pic"><img src="assets/img/team/team-4.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Ing. Diego Orellana</h4>
-                <span>Asesoría Financiera</span>
+                <span>Asesor Financiero</span>
                 <div class="social">
                   <a href="https://www.facebook.com/daosorellana.orellanasanchez" target="_blank"><i class="bi bi-facebook"></i></a>
                   <a href="https://www.instagram.com/daos009/" target="_blank"><i class="bi bi-instagram"></i></a>
