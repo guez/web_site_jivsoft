@@ -15,7 +15,7 @@
   <meta property="og:description" content="Desarrollamos desde cero o acorde a sus necesidades: Página web, aplicaciones móviles, sistemas a medida, redes sociales, asesoría tecnológica, identidad visual" />
   <meta property="og:type" content="website"/>
   <meta property="og:url" content="http://www.jivsoft.com"/>
-  <meta property="og:image" content="http://www.jivsoft.com/assets/img/logo.png" />
+  <meta property="og:image" content="http://www.jivsoft.com/assets/img/logo_jivsoft.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@JIVsoft" />
   <meta name="twitter:title" content="JIVSoft">
