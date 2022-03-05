@@ -6,9 +6,21 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>JIVSoft</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
-
+  <meta name="description" content= "Desarrollamos desde cero o acorde a sus necesidades: Página web, aplicaciones móviles, sistemas a medida, redes sociales, asesoría tecnológica, identidad visual" />
+	<meta name="robots" content= "index, follow" />
+  <meta name="keywords" content="página web, aplicaciones móviles, sistemas a medida, redes sociales, asesoría tecnológica, identidad visual" />
+  <meta name="author" content="JIVSoft" />
+  <meta name="copyright" content="JIVSoft" />
+  <meta property="og:title" content="JIVSoft" />
+  <meta property="og:description" content="Desarrollamos desde cero o acorde a sus necesidades: Página web, aplicaciones móviles, sistemas a medida, redes sociales, asesoría tecnológica, identidad visual" />
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="http://www.jivsoft.com"/>
+  <meta property="og:image" content="http://www.jivsoft.com/assets/img/logo_jivsoft.png" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@JIVsoft" />
+  <meta name="twitter:title" content="JIVSoft">
+  <meta name="twitter:description" content="Desarrollamos desde cero o acorde a sus necesidades: Página web, aplicaciones móviles, sistemas a medida, redes sociales, asesoría tecnológica, identidad visual">
+  
   <!-- Favicons -->
   <link href="/assets/img/favicon.ico" rel="icon">
   <link href="/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
