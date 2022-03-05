@@ -19,7 +19,7 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@JIVsoft" />
   <meta name="twitter:title" content="JIVSoft">
-  <meta name="twitter:description" content="Desarrollamos desde cero o acorde a sus necesidades: Página web, aplicaciones móviles, sistemas a medida, redes sociales, asesoría tecnológica, identidad visual"">
+  <meta name="twitter:description" content="Desarrollamos desde cero o acorde a sus necesidades: Página web, aplicaciones móviles, sistemas a medida, redes sociales, asesoría tecnológica, identidad visual">
   
   <!-- Favicons -->
   <link href="/assets/img/favicon.ico" rel="icon">
