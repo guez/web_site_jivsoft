@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ContactController;
-
+use App\Http\Controllers\ContactControllerSus;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -39,6 +39,7 @@ Route::view('/briefcase/rayodentapp', 'pages.briefcase.rayodentapp')->name('brie
  * FUNCTIONS
  */
 Route::post('/contactRegister', [ContactController::class, 'registerContact']);
+Route::post('/contactRegisterSus', [ContactControllerSus::class, 'registerContactSus']);
 
 
 Route::view('/briefcase/optica-israel', 'pages.briefcase.optica_israel')->name('briefcase.optica-israel');
