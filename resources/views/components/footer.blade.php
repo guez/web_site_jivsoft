@@ -42,16 +42,33 @@
             </ul>
           </div>
 
-          <div class="col-lg-4 col-md-6 footer-newsletter">
+
+          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="10">
             <h4>Suscríbete</h4>
             <p>Recibe ofertas, novedades y mucho más:</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Quiero Suscribirme">
+            <form action="/contactRegisterSus" method="POST" class="php-email-form">
+              @csrf
+              <div class="row">
+               <!--<input type="email" name="email"><input type="submit" value="Quiero Suscribirme"> -->
+               <div class="col-lg-12 form-group">
+                <input type="email" class="form-control" name="email" id="email"
+                    placeholder="Escriba su correo electrónico" required>
+              </div>
+              <div class="my-3">
+                <div class="loading">Cargando</div>
+                    <div class="error-message"></div>
+                        <div class="sent-message">Tu mensaje ha sido enviado, Gracias!</div>
+              </div>      
+                  <div class="text-center">
+                    <button type="submit">Quiero Suscribirme</button>
+                </div>
+                
             </form>
-
+            </div>
           </div>
 
         </div>
+      
       </div>
     </div>
 
