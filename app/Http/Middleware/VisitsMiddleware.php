@@ -24,6 +24,7 @@ class VisitsMiddleware
             'host' =>   $request->header('host'),
             'userAgent'  => $request->header('user-agent'),
             'url'  =>   $route->uri(),
+            'ip'    => $request->ip(),
         ]);
 
         Visit::storeRecord($requestHost);

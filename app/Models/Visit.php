@@ -14,6 +14,7 @@ class Visit extends Model
         'host',
         'userAgent',
         'url',
+        'ip',
     ];
 
     protected $hidden = [
